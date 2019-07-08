@@ -1,5 +1,5 @@
 # ReleaseTutorial
-
+[![build status](https://alloy-ci.com/projects/17/badge/master)](https://alloy-ci.com/projects/17)
 **TODO: Add description**
 
 ## Installation
